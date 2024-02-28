@@ -48,13 +48,13 @@
   <li><code>sudo apt-get upgrade</code></li>
   <li><code>sudo apt-get install git python tor</code></li>
   <li><code>sudo apt-get install python3-pip</code></li>
-  <li><code>git clone https://github.com/e811-py/SMSBomber</code></li>
+  <li><code>git clone https://github.com/Mr3rf1/SMSBomber</code></li>
   <li><code>cd SMSBomber</code></li>
   <li><code>sudo pip3 install -r requirements.txt</code></li>
 </ul>
 
 <h3>Single Command</h3>
-<pre><code>sudo apt-get update && sudo apt-get upgrade && sudo apt-get install git python tor && sudo apt-get install python3-pip && git clone https://github.com/e811-py/SMSBomber && cd SMSBomber && sudo pip3 install -r requirements.txt</code></pre>
+<pre><code>sudo apt-get update && sudo apt-get upgrade && sudo apt-get install git python tor && sudo apt-get install python3-pip && git clone https://github.com/Mr3rf1/SMSBomber && cd SMSBomber && sudo pip3 install -r requirements.txt</code></pre>
 <h2>Countinue</h2>
 <h5>First run tor in port 8000</h5>
 <ul><li><code>tor HTTPTunnelPort 8000</code></li></ul>
@@ -62,7 +62,7 @@
 <ul><li><code>python3 SMSBomber.py</code></li></ul>
 <h5>Then Choose the mood</h5>
 <ul><li>[1] low (2 Api)</li><li>[2] medium (8 Api) |Need license|</li><li>[3] Super (16 Api) |Need license|</li></ul>
-<h6>if you want to buy license send me a pm in telegram t.me/e811_py</h6>
+<h6>if you want to buy license send me a pm in telegram t.me/Mr3rf1</h6>
 <h5>Good Luck :)</h5>
 
 <p><h1><b>Use in Android(Termux)</b></h1></p>
@@ -71,7 +71,7 @@
   <li><code>apt upgrade</code></li>
   <li><code>pkg install git python3 tor</code></li>
   <li><code>pkg install python3-pip</code></li>
-  <li><code>git clone https://github.com/e811-py/SMSBomber</code></li>
+  <li><code>git clone https://github.com/Mr3rf1/SMSBomber</code></li>
   <li><code>cd SMSBomber</code></li>
   <li><code>pip3 install -r requirements.txt</code></li>
 </ul>
@@ -82,6 +82,6 @@
 <ul><li><code>python3 SMSBomber.py</code></li></ul>
 <h5>Then Choose the mood</h5>
 <ul><li>[1] low (2 Api)</li><li>[2] medium (8 Api) |Need license|</li><li>[3] Super (16 Api) |Need license|</li></ul>
-<h6>if you want to buy license send me a pm in telegram t.me/e811_py</h6>
+<h6>if you want to buy license send me a pm in telegram t.me/Mr3rf1</h6>
 <h5>Then Enter your target number like (+989120000000)</h5>
 <h5>Good Luck :)</h5>
